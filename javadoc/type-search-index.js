@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.example.inlamning3javafx","l":"Inlamning3JavaFx"}]
